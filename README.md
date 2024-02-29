@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Maria! 👋
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariaclaradeveloper/)
+
+![Maria Clara GitHub stats](https://github-readme-stats.vercel.app/api?username=maria-kaki&show_icons=true&theme=dracula&count_private=true)
 
 <!--
 **maria-kaki/maria-kaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
