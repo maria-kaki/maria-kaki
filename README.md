@@ -1,7 +1,6 @@
 ### Hi, I'm Maria! 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariaclaradeveloper/)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python]((https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
 
 ![Maria Clara GitHub stats](https://github-readme-stats.vercel.app/api?username=maria-kaki&show_icons=true&theme=dracula&count_private=true)
 
